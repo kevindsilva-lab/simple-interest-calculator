@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A small program that calculates simple interest and the total amount payable, based on the principal, rate of interest and time period entered by the user.
+A simple program that calculates simple interest and the total amount payable, based on the principal, rate of interest and time period entered by the user.
 
 ## Formula
 
